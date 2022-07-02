@@ -52,11 +52,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1656298072,
-        "narHash": "sha256-HpvC7hyffRzQuFwO6k/OQKiEnwicC0u2C++srnVHqTQ=",
+        "lastModified": 1656301229,
+        "narHash": "sha256-b4MFG732MDVUPSENZQg3RsEPWC0TasBzMRhAbICxPzw=",
         "owner": "nim-nix-pkgs",
         "repo": "serialport",
-        "rev": "d3857ef4475aa1180053f7a884eece80019d59e9",
+        "rev": "6c72222d525b36c4e1ccc371ec70c2c2878ced31",
         "type": "github"
       },
       "original": {
